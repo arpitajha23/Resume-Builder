@@ -1,0 +1,14 @@
+#cv-form{
+    /* display: none; */
+}
+ #cv-templete{
+    display: none;
+ }
+.myimg{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+.background{
+    background-color: antiquewhite;
+}
